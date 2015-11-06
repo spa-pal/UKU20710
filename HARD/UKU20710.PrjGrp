@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\USB-RS\HARD\URS.PRJPCB
+[Project2]
+ProjectPath=..\UKU207\HARD\7\UKU207_7.PRJPCB
+[Project3]
+ProjectPath=..\UKU207_220_dev\HARD\2\UKU207_220_2.PRJPCB
+[Project4]
+ProjectPath=..\..\Protel\UKU206\UKU206.PRJPCB
+[Project5]
+ProjectPath=HARD\UKU20710_PROC\UKU20710_PROC.PrjPCB
+[Project6]
+ProjectPath=HARD\UKU20710_POW\UKU20710_POW.PrjPCB
+[Project7]
+ProjectPath=HARD\UKU20710_FACE\UKU20710_FACE.PrjPCB
