@@ -1,0 +1,11 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [UKU20710_PROC.PrjPCB]
+   Generated File[uku20710_proc.RUL]
+   Generated File[uku20710_proc.REP]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:21:06 On 09.11.2015

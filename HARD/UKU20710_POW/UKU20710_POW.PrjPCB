@@ -13,14 +13,14 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 [Document1]
-DocumentPath=uku20710_pow.PcbDoc
+DocumentPath=UKU20710_power_board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotateSuffix=
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 [Document2]
-DocumentPath=UKU20710_power_board.SchDoc
+DocumentPath=uku20710_pow.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotateSuffix=
