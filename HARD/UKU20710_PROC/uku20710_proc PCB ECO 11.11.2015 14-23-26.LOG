@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=+3V3 Pin=C58-2
+Removed Pin From Net: NetName=NetJP11_1 Pin=JP11-1
+Removed Pin From Net: NetName=+3V3 Pin=JP11-2
+Removed Pin From Net: NetName=P2_10 Pin=JP11-4
+Removed Pin From Net: NetName=GND Pin=JP11-5
+Removed Pin From Net: NetName=RES Pin=JP11-6
+Removed Pin From Net: NetName=+5V_IZ Pin=JP11-9
+Removed Pin From Net: NetName=-5V_IZ Pin=JP11-10
+Change Net Name : Old Net Name=NetJP11_1 New Net Name=NetR15_1
+Added Room: Name=ANALOG-PART
+Added Room: Name=ETHERNET
+Added Room: Name=cpu_board

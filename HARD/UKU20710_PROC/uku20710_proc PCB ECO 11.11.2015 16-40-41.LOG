@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=+5V_IZ New Net Name=-5V_IZ
+Change Net Name : Old Net Name=-5V_IZ New Net Name=+5V_IZ
+Added Pin To Net: NetName=485-TX Pin=U1-12
+Added Pin To Net: NetName=485-RX Pin=U1-13

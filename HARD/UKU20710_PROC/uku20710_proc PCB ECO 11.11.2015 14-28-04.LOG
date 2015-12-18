@@ -1,0 +1,16 @@
+Added Component: Designator=X9(PIN1)
+Added Component: Designator=X10(PIN1)
+Added Component: Designator=X11(PIN1)
+Added Component: Designator=X12(PIN1)
+Added Component: Designator=X17(PIN1)
+Added Component: Designator=X18(PIN1)
+Added Component: Designator=X19(PIN1)
+Added Component: Designator=X20(PIN1)
+Added Member To Class: ClassName=CPU Member=Component X9 
+Added Member To Class: ClassName=CPU Member=Component X10 
+Added Member To Class: ClassName=CPU Member=Component X11 
+Added Member To Class: ClassName=CPU Member=Component X12 
+Added Member To Class: ClassName=CPU Member=Component X17 
+Added Member To Class: ClassName=CPU Member=Component X18 
+Added Member To Class: ClassName=CPU Member=Component X19 
+Added Member To Class: ClassName=CPU Member=Component X20 

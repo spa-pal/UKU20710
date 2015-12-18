@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND_USB Pin=C3-1
+Added Pin To Net: NetName=GND_USB Pin=C4-1
+Added Pin To Net: NetName=GND_USB Pin=U3-2
+Added Pin To Net: NetName=GND_USB Pin=U3-8
+Added Net: Name=GND_USB
+Added Pin To Net: NetName=NetU2_5 Pin=U3-5
+Added Net: Name=NetU2_5

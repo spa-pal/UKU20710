@@ -1,0 +1,8 @@
+Added Component: Designator=U1(SO-G16)
+Change Net Name : Old Net Name=+5V_IZ New Net Name=NetJP1_10
+Change Net Name : Old Net Name=-5V_IZ New Net Name=NetJP1_9
+Change Net Name : Old Net Name=BAT New Net Name=-5V_IZ
+Change Net Name : Old Net Name=DB0 New Net Name=+5V_IZ
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Member To Class: ClassName=CPU Member=Component U1 SC16IS740
