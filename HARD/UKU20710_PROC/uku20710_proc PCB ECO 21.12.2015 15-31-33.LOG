@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetR15_1 Pin=R15-1
+Removed Pin From Net: NetName=P0_2 Pin=R15-2
+Removed Pin From Net: NetName=P0_1 Pin=U11-1
+Removed Pin From Net: NetName=P0_0 Pin=U11-4
+Removed Pin From Net: NetName=P0_2 Pin=U13-98
+Removed Member From Class: ClassName=CPU Member=R15
+Added Component: Designator=U4(TSSO6X6-G20/D6.6)
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetC2_2
+Change Net Name : Old Net Name=P0_2 New Net Name=NetC22_2
+Added Pin To Net: NetName=NetU4_1 Pin=U11-1
+Added Net: Name=NetU4_1
+Added Pin To Net: NetName=NetU4_2 Pin=U11-4
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=P0_2 Pin=U13-98
+Added Pin To Net: NetName=GND Pin=X9-1
+Added Pin To Net: NetName=+5V Pin=X10-1
+Added Pin To Net: NetName=GND Pin=X11-1
+Added Pin To Net: NetName=+5V Pin=X12-1
+Added Pin To Net: NetName=P0_3 Pin=X17-1
+Added Pin To Net: NetName=NetD1_2 Pin=X18-1
+Added Pin To Net: NetName=P0_2 Pin=X19-1
+Added Pin To Net: NetName=P2_10 Pin=X20-1

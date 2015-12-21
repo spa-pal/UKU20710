@@ -1,0 +1,29 @@
+Added Component: Designator=C2(_1206)
+Added Component: Designator=C22(_1206)
+Added Component: Designator=C27(_1206)
+Added Component: Designator=C29(_1206)
+Added Component: Designator=D1(_1206d)
+Added Component: Designator=U4(TSSO6X6-G20/D6.6)
+Added Component: Designator=Y5(QWARZ1)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=RES Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetU4_1 Pin=U4-1
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=NetC2_2 Pin=U4-8
+Added Pin To Net: NetName=NetC22_2 Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-10
+Added Pin To Net: NetName=+5V Pin=U4-19
+Added Pin To Net: NetName=+5V Pin=U4-20
+Added Pin To Net: NetName=NetC22_2 Pin=Y5-1
+Added Pin To Net: NetName=NetC2_2 Pin=Y5-2
+Added Member To Class: ClassName=CPU Member=Component C2 Cap Semi
+Added Member To Class: ClassName=CPU Member=Component C22 Cap Semi
+Added Member To Class: ClassName=CPU Member=Component C27 Cap Semi
+Added Member To Class: ClassName=CPU Member=Component C29 Cap Semi
+Added Member To Class: ClassName=CPU Member=Component D1 LL4148
+Added Member To Class: ClassName=CPU Member=Component U4 MCP2515
+Added Member To Class: ClassName=CPU Member=Component Y5 8MGz
