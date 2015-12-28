@@ -26,6 +26,20 @@ AnnotateStartValue=1
 AnnotateSuffix=
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
+[Document3]
+DocumentPath=M:\PAL\PAL.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotateSuffix=
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+[Document4]
+DocumentPath=M:\PAL\PAL.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotateSuffix=
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
