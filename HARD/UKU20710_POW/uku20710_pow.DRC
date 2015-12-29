@@ -1,0 +1,159 @@
+Protel Design System Design Rule Check
+PCB File : \Users\Pal\DEVICES\UKU20710\HARD\UKU20710_POW\uku20710_pow.PcbDoc
+Date     : 25.12.2015
+Time     : 17:36:57
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad L500-7(53.75mm,35.85mm)  Multi-Layer on Net NetC506_1
+Total: 1
+
+Processing Rule : Room UKU20710_power_board (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('UKU20710_power_board'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mm) (InNet('NetD506_1') or
+InNet('NetD505_2') or
+InNet('NetC510_2') or
+InNet('NetD505_1') or
+InNet('NetD507_1')),(InPoly)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mm) (InNet(NetC500_1)),(HasPad('Free-0'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InPoly and InNet(NetC500_1)),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=2mm) (InPoly),(HasPad('Free-0') Or HasPad('Free-1') Or HasPad('Free-2') Or HasPad('Free-3'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.18mm) (All),(All)
+   Violation between Track (30.6923mm,78.0082mm)(30.7059mm,77.9946mm)  Top Layer and
+                     Pad Q503-2(30.5983mm,78.4522mm)  Top Layer
+   Violation between Via (4.0199mm,57.1299mm) Top Layer to Bottom Layer and
+                     Track (3.535mm,51.6712mm)(3.535mm,56.9231mm)  Top Layer
+   Violation between Via (4.0199mm,57.1299mm) Top Layer to Bottom Layer and
+                     Track (3.3768mm,56.7813mm)(3.535mm,56.9231mm)  Top Layer
+   Violation between Pad C505-1(3.3768mm,56.7813mm)  Multi-Layer and
+                     Track (4.0199mm,57.1299mm)(11.1798mm,57.1299mm)  Bottom Layer
+   Violation between Via (4.0199mm,57.1299mm) Top Layer to Bottom Layer and
+                     Pad C505-1(3.3768mm,56.7813mm)  Multi-Layer
+Rule Violations :5
+
+Processing Rule : Broken-Net Constraint ( (All) )
+   Violation         Net NetBT500_2   is broken into 10 sub-nets. Routed To 0.00%
+     Subnet : U500-1
+     Subnet : BT500-2
+     Subnet : U505-2
+     Subnet : U505-4
+     Subnet : U505-8
+     Subnet : C517-2
+     Subnet : U504-1
+     Subnet : C502-1
+     Subnet : C519-1
+     Subnet : C518-1
+   Violation         Net NetC510_1   is broken into 3 sub-nets. Routed To 0.00%
+     Subnet : R518-2
+     Subnet : C510-1
+     Subnet : D507-2
+   Violation         Net NetC512_2   is broken into 4 sub-nets. Routed To 0.00%
+     Subnet : C512-2
+     Subnet : D512-8
+     Subnet : R501-2
+     Subnet : R512-1
+   Violation         Net NetD505_2   is broken into 2 sub-nets. Routed To 66.67%
+     Subnet : D505-2   D506-2   R508-2
+     Subnet : R514-2
+   Violation         Net NetC500_2   is broken into 3 sub-nets. Routed To 0.00%
+     Subnet : C500-2
+     Subnet : D503-2
+     Subnet : R519-1
+   Violation         Net NetC506_1   is broken into 12 sub-nets. Routed To 0.00%
+     Warning - net contains unplated pads
+     Subnet : R505-2
+     Subnet : D511-6
+     Subnet : D511-7
+     Subnet : D511-3
+     Subnet : D511-2
+     Subnet : C507-1
+     Subnet : U501-5
+     Subnet : C508-2
+     Subnet : C506-1
+     Subnet : D504-2
+     Subnet : C509-2
+     Subnet : L500-7
+   Violation         Net NetC500_1   is broken into 18 sub-nets. Routed To 39.29%
+     Subnet : C504-2
+     Subnet : C500-1
+     Subnet : R524-1   C514-2   R506-1   L500-3
+     Subnet : C505-2
+     Subnet : D512-2   D512-7
+     Subnet : D512-3   D512-6
+     Subnet : D509-1
+     Subnet : R501-1
+     Subnet : Q500-2
+     Subnet : Q500-4
+     Subnet : D508-1
+     Subnet : R500-1
+     Subnet : C511-2
+     Subnet : U503-3   C516-1
+     Subnet : U502-6
+     Subnet :
+     Subnet : C515-2   R525-2   R526-2   R527-2   R528-2   R529-2
+     Subnet : Q503-2
+   Violation         Net NetC506_2   is broken into 3 sub-nets. Routed To 60.00%
+     Subnet : U501-2   U501-3   U501-7   U501-6
+     Subnet : L500-5
+     Subnet : C506-2
+   Violation         Net NetC510_2   is broken into 2 sub-nets. Routed To 83.33%
+     Subnet : R509-2   C511-1   R518-1   L500-1   C510-2   R515-2
+     Subnet : R508-1
+   Violation         Net NetC515_1   is broken into 2 sub-nets. Routed To 50.00%
+     Subnet : U502-4
+     Subnet : R523-2   C515-1
+   Violation         Net NetD504_1   is broken into 2 sub-nets. Routed To 0.00%
+     Subnet : L500-6
+     Subnet : D504-1
+   Violation         Net NetD507_1   is broken into 3 sub-nets. Routed To 0.00%
+     Subnet : D507-1
+     Subnet : Q502-2
+     Subnet : L500-2
+   Violation         Net NetD510_1   is broken into 2 sub-nets. Routed To 0.00%
+     Subnet : L500-8
+     Subnet : D510-1
+   Violation         Net NetQ503_1   is broken into 3 sub-nets. Routed To 0.00%
+     Subnet : Q503-1
+     Subnet : R504-1
+     Subnet : R500-2
+Rule Violations :14
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (30.6923mm,78.0082mm)(30.7059mm,77.9946mm)  Top Layer and
+                     Pad Q503-2(30.5983mm,78.4522mm)  Top Layer
+   Violation between Via (4.0199mm,57.1299mm) Top Layer to Bottom Layer and
+                     Track (3.535mm,51.6712mm)(3.535mm,56.9231mm)  Top Layer
+   Violation between Via (4.0199mm,57.1299mm) Top Layer to Bottom Layer and
+                     Track (3.3768mm,56.7813mm)(3.535mm,56.9231mm)  Top Layer
+   Violation between Pad C505-1(3.3768mm,56.7813mm)  Multi-Layer and
+                     Track (4.0199mm,57.1299mm)(11.1798mm,57.1299mm)  Bottom Layer
+   Violation between Via (4.0199mm,57.1299mm) Top Layer to Bottom Layer and
+                     Pad C505-1(3.3768mm,56.7813mm)  Multi-Layer
+Rule Violations :5
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (OnLayer('Keep-Out Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InPoly),(All)
+Rule Violations :0
+
+
+Violations Detected : 24
+Time Elapsed        : 00:00:00
