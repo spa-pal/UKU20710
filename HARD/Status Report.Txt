@@ -1,16 +1,9 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Bill of Materials
+Type  : ReportComponents
 From  : Project [Free Documents]
-   Generated File[uku20710_com.GTL]
-   Generated File[uku20710_com.GBL]
-   Generated File[uku20710_com.GTS]
-   Generated File[uku20710_com.GBS]
-   Generated File[uku20710_com.GKO]
-   Generated File[uku20710_com.RUL]
-   Generated File[uku20710_com.REP]
 
 
-Files Generated   : 7
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 21:28:37 On 11.01.2016
+Finished Output Generation At 13:24:16 On 20.01.2016
