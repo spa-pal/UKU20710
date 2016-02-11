@@ -1,9 +1,13 @@
-Output: Bill of Materials
-Type  : ReportComponents
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [Free Documents]
+   Generated File[uku20710_com.TXT]
+   Generated File[uku20710_com.DRL]
+   Generated File[uku20710_com.LDP]
+   Generated File[uku20710_com.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 13:24:16 On 20.01.2016
+Finished Output Generation At 14:10:29 On 03.02.2016
