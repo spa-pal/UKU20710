@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SC16IS740.PrjPCB]
+   Generated File[SC16IS740.TXT]
+   Generated File[SC16IS740.DRL]
+   Generated File[SC16IS740.LDP]
+   Generated File[SC16IS740.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:47:11 On 03.03.2016
