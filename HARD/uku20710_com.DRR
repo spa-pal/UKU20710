@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: uku20710_com.PcbDoc   03.02.2016  14:10:29
+NCDrill File Report For: uku20710_com.PcbDoc   23.03.2016  14:03:35
 ---------------------------------------------------------------------------
 
 
@@ -10,21 +10,22 @@ EIA File   : NCDrillOutput.DRL
 
 Tool         Hole Size          Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.6mm (23.622mil)        564              3338.00 mm (131.42 Inch)
+T1        0.6mm (23.622mil)        566              3330.96 mm (131.14 Inch)
 T2        0.7mm (27.559mil)        75               1215.00 mm (47.83 Inch)
 T3        0.85mm (33.465mil)       14               553.85 mm (21.81 Inch)
-T4        0.95mm (37.402mil)       53               459.11 mm (18.08 Inch)
-T5        1mm (39.37mil)           164              1473.25 mm (58.00 Inch)
-T6        1.2mm (47.244mil)        2                88.75 mm (3.49 Inch)
-T7        1.3mm (51.181mil)        36               627.24 mm (24.69 Inch)
-T8        1.5mm (59.055mil)        7                406.97 mm (16.02 Inch)
-T9        1.8mm (70.866mil)        2                109.01 mm (4.29 Inch)
-T10       2mm (78.74mil)           2                263.78 mm (10.39 Inch)
-T11       2.5mm (98.425mil)        4                253.68 mm (9.99 Inch)
-T12       3mm (118.11mil)          1                221.00 mm (8.70 Inch)
-T13       3.5mm (137.795mil)       14               924.34 mm (36.39 Inch)
-T14       1.5mm (59.055mil)        1         NPTH   244.33 mm (9.62 Inch)
+T4        0.9mm (35.433mil)        8                159.99 mm (6.30 Inch)
+T5        0.95mm (37.402mil)       45               410.74 mm (16.17 Inch)
+T6        1mm (39.37mil)           176              1471.95 mm (57.95 Inch)
+T7        1.2mm (47.244mil)        2                88.75 mm (3.49 Inch)
+T8        1.3mm (51.181mil)        36               627.24 mm (24.69 Inch)
+T9        1.5mm (59.055mil)        7                406.97 mm (16.02 Inch)
+T10       1.8mm (70.866mil)        2                109.01 mm (4.29 Inch)
+T11       2mm (78.74mil)           2                263.78 mm (10.39 Inch)
+T12       2.5mm (98.425mil)        4                253.68 mm (9.99 Inch)
+T13       3mm (118.11mil)          1                221.00 mm (8.70 Inch)
+T14       3.5mm (137.795mil)       14               924.34 mm (36.39 Inch)
+T15       1.5mm (59.055mil)        1         NPTH   244.33 mm (9.62 Inch)
 ---------------------------------------------------------------------------
-Totals                             939              10178.29 mm (400.72 Inch)
+Totals                             953              10281.58 mm (404.79 Inch)
 
-Total Processing Time : 0:00:08
+Total Processing Time : 0:00:12

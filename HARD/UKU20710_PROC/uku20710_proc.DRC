@@ -1,16 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : \Users\Pal\DEVICES\UKU20710\HARD\UKU20710_PROC\uku20710_proc.PcbDoc
-Date     : 11.01.2016
-Time     : 16:34:37
-
-Processing Rule : Room cpu_board (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('cpu_board'))
-Rule Violations :0
-
-Processing Rule : Room ETHERNET (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ETHERNET'))
-Rule Violations :0
-
-Processing Rule : Room ANALOG-PART (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANALOG-PART'))
-Rule Violations :0
+Date     : 22.03.2016
+Time     : 10:43:18
 
 Processing Rule : Clearance Constraint (Gap=0.6mm) (InNet(NetC511_2) or
 InNet(NetD500_1) or
@@ -70,4 +61,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:01:15
+Time Elapsed        : 00:00:47
