@@ -41,20 +41,13 @@ AnnotateSuffix=
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 [Document5]
-DocumentPath=C:\Program Files\Altium\Library\Pcb\TSOP (~0.6mm Pitch).PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotateSuffix=
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-[Document6]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotateSuffix=
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-[Document7]
+[Document6]
 DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -33,20 +33,6 @@ AnnotateStartValue=1
 AnnotateSuffix=
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-[Document4]
-DocumentPath=Y:\PAL\PAL.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotateSuffix=
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-[Document5]
-DocumentPath=Y:\PAL\PAL.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotateSuffix=
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UKU20710_POW\uku207xx_power_board.DRL
 [GeneratedDocument2]
