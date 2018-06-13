@@ -1,10 +1,10 @@
 Protel Design System Design Rule Check
-PCB File : \Users\Pal\DEVICES\UKU20710\HARD\UKU207xx_POW\uku207xx_power_board.PcbDoc
-Date     : 30.06.2016
-Time     : 13:23:16
+PCB File : \Users\Pal\DEVICES\UKU20710\HARD\UKU207xx485x2_POW\uku207xx_power_board.PcbDoc
+Date     : 09.06.2018
+Time     : 16:58:47
 
 WARNING: Unplated multi-layer pad(s) detected
-   Pad L500-7(58.75mm,39.85mm)  Multi-Layer on Net NetBT500_2
+   Pad L500-7(62.3mm,40mm)  Multi-Layer on Net NetBT500_2
 Total: 1
 
 Processing Rule : Clearance Constraint (Gap=1mm) (InNet(NetJ1_2) or InNet(NetF1_1)),(InPoly)
@@ -61,4 +61,4 @@ Rule Violations :0
 
 
 Violations Detected : 1
-Time Elapsed        : 00:00:32
+Time Elapsed        : 00:00:14
