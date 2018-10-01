@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : \Users\Pal\DEVICES\UKU20710\HARD\UKU20710_FACE\uku20710_face.PcbDoc
-Date     : 11.01.2016
-Time     : 20:55:12
+Date     : 14.06.2018
+Time     : 16:00:27
 
 Processing Rule : Clearance Constraint (Gap=1mm) (OnLayer('Keep-Out Layer')),(InPoly)
 Rule Violations :0
@@ -19,7 +19,10 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Broken-Net Constraint ( (All) )
-Rule Violations :0
+   Violation         Net DB3   is broken into 2 sub-nets. Routed To 50.00%
+     Subnet : R4-2
+     Subnet : U1-13    JP5-19
+Rule Violations :1
 
 Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.254mm) (All)
 Rule Violations :0
@@ -37,5 +40,5 @@ Processing Rule : Clearance Constraint (Gap=2mm) (InPoly),(HasPad('Free-0') Or H
 Rule Violations :0
 
 
-Violations Detected : 0
-Time Elapsed        : 00:00:25
+Violations Detected : 1
+Time Elapsed        : 00:00:19

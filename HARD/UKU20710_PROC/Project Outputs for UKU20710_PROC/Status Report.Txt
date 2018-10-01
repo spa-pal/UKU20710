@@ -1,11 +1,9 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Project [UKU20710_PROC.PrjPCB]
-   Generated File[uku20710_proc.RUL]
-   Generated File[uku20710_proc.REP]
+Output: Bill of Materials
+Type  : ReportComponents
+From  : Project [UKU20710_PROC.PRJPCB]
 
 
-Files Generated   : 2
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 15:21:06 On 09.11.2015
+Finished Output Generation At 11:00:04 On 11.09.2018
