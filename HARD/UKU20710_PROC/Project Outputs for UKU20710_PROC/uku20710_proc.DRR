@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: uku20710_proc.PcbDoc   15.06.2018  13:19:09
+NCDrill File Report For: uku20710_proc.PcbDoc   17.05.2021  15:02:44
 ---------------------------------------------------------------------------
 
 
@@ -10,19 +10,19 @@ EIA File   : NCDrillOutput.DRL
 
 Tool         Hole Size          Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.6mm (23.622mil)        516              2702.20 mm (106.39 Inch)
-T2        0.7mm (27.559mil)        163              1212.12 mm (47.72 Inch)
-T3        0.711mm (27.992mil)      3                93.41 mm (3.68 Inch)
+T1        0.6mm (23.622mil)        516              2750.71 mm (108.30 Inch)
+T2        0.7mm (27.559mil)        57               765.84 mm (30.15 Inch)
+T3        0.711mm (27.992mil)      2                83.49 mm (3.29 Inch)
 T4        0.85mm (33.465mil)       14               553.71 mm (21.80 Inch)
-T5        0.9mm (35.433mil)        36               361.19 mm (14.22 Inch)
+T5        0.9mm (35.433mil)        36               365.50 mm (14.39 Inch)
 T6        0.95mm (37.402mil)       32               205.88 mm (8.11 Inch)
-T7        1mm (39.37mil)           115              943.27 mm (37.14 Inch)
+T7        1mm (39.37mil)           119              951.64 mm (37.47 Inch)
 T8        1.2mm (47.244mil)        2                88.75 mm (3.49 Inch)
 T9        1.3mm (51.181mil)        22               345.73 mm (13.61 Inch)
 T10       1.8mm (70.866mil)        2                43.32 mm (1.71 Inch)
 T11       2.5mm (98.425mil)        4                253.68 mm (9.99 Inch)
 T12       3.5mm (137.795mil)       10               664.40 mm (26.16 Inch)
 ---------------------------------------------------------------------------
-Totals                             919              7467.65 mm (294.00 Inch)
+Totals                             816              7072.64 mm (278.45 Inch)
 
-Total Processing Time : 0:00:14
+Total Processing Time : 0:00:09

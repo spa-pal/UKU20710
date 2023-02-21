@@ -1,9 +1,13 @@
-Output: Bill of Materials
-Type  : ReportComponents
-From  : Project [UKU20710_PROC.PRJPCB]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UKU20710_PROC.PrjPCB]
+   Generated File[uku20710_proc.TXT]
+   Generated File[uku20710_proc.DRL]
+   Generated File[uku20710_proc.LDP]
+   Generated File[uku20710_proc.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 11:00:04 On 11.09.2018
+Finished Output Generation At 15:02:44 On 17.05.2021

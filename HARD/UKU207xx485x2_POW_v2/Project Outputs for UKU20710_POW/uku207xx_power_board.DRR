@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: uku207xx_power_board.PcbDoc   2018-10-03  9:36:41
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        39               357.34 mm (14.07 Inch)
+T2        0.9mm (35.433mil)        4                64.69 mm (2.55 Inch)
+T3        1mm (39.37mil)           64               505.18 mm (19.89 Inch)
+T4        1.3mm (51.181mil)        14               212.56 mm (8.37 Inch)
+T5        1.5mm (59.055mil)        10               294.03 mm (11.58 Inch)
+T6        2mm (78.74mil)           1                86.21 mm (3.39 Inch)
+T7        3.5mm (137.795mil)       4                244.31 mm (9.62 Inch)
+T8        1.5mm (59.055mil)        1         NPTH   74.04 mm (2.91 Inch)
+---------------------------------------------------------------------------
+Totals                             137              1838.36 mm (72.38 Inch)
+
+Total Processing Time : 0:00:12
