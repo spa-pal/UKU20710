@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : ReportComponents
+From  : Project [UKU20710_FACE_DWIN.PRJPCB]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 9:03:55 On 18.04.2025

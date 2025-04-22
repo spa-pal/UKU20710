@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: uku20710_face.PcbDoc   20.11.2024  12:50:40
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.6mm (23.622mil)        74               641.63 mm (25.26 Inch)
+T2        1mm (39.37mil)           91               617.22 mm (24.30 Inch)
+T3        1.2mm (47.244mil)        2                96.43 mm (3.80 Inch)
+T4        1.8mm (70.866mil)        4                111.56 mm (4.39 Inch)
+T5        2.5mm (98.425mil)        8                359.91 mm (14.17 Inch)
+T6        3.5mm (137.795mil)       8                317.93 mm (12.52 Inch)
+---------------------------------------------------------------------------
+Totals                             187              2144.68 mm (84.44 Inch)
+
+Total Processing Time : 0:00:09
